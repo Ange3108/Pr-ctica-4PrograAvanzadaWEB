@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\Practica4.DAL\Practica4.DAL.csproj" />
   </ItemGroup>
 
 </Project>
