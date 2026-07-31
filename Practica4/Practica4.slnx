@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Practica4.BLL/Practica4.BLL.csproj" />
+  <Project Path="../Practica4.DAL/Practica4.DAL.csproj" />
+  <Project Path="Practica4.csproj" />
+</Solution>
