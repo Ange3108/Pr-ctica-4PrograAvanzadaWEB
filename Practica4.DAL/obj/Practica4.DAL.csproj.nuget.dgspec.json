@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XSF\\Documents\\U\\VII Cuatrimestre\\Progra Avanzada\\practica pa\\Practica4\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj": {}
+    "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XSF\\Documents\\U\\VII Cuatrimestre\\Progra Avanzada\\practica pa\\Practica4\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj": {
+    "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XSF\\Documents\\U\\VII Cuatrimestre\\Progra Avanzada\\practica pa\\Practica4\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj",
         "projectName": "Practica4.DAL",
-        "projectPath": "C:\\Users\\XSF\\Documents\\U\\VII Cuatrimestre\\Progra Avanzada\\practica pa\\Practica4\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj",
-        "packagesPath": "C:\\Users\\XSF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XSF\\Documents\\U\\VII Cuatrimestre\\Progra Avanzada\\practica pa\\Practica4\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\obj\\",
+        "projectPath": "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj",
+        "packagesPath": "C:\\Users\\jabad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\XSF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jabad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
