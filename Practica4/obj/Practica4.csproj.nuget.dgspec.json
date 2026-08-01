@@ -56,6 +56,16 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.16.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -399,6 +409,10 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[10.0.10, )"
@@ -416,6 +430,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.10, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.16.17, )"
             }
           },
           "imports": [
@@ -744,6 +762,9 @@
             "projectReferences": {
               "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.BLL\\Practica4.BLL.csproj": {
                 "projectPath": "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.BLL\\Practica4.BLL.csproj"
+              },
+              "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj": {
+                "projectPath": "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.DAL\\Practica4.DAL.csproj"
               }
             }
           }
@@ -765,9 +786,17 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.10, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[2.16.17, )"
             }
           },
           "imports": [

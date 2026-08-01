@@ -26,21 +26,50 @@ namespace Practica4.BLL.Services
                 return false;
             }
 
-            //Si pasa las validaciones, se puede crear el estudiante
-           var nuevoEstudiante =estudiante.ToEstudiante();
-            nuevoEstudiante.Nombre = estudiante.Nombre;
-            nuevoEstudiante.Edad = estudiante.Edad;
-            nuevoEstudiante.Apellido = estudiante.Apellido;
-            nuevoEstudiante.Grado = estudiante.Grado;
-            nuevoEstudiante.Genero = estudiante.Genero;
-           return await _estudianteRepository.RegistrarEstudianteAsync(nuevoEstudiante);
+            //Si pasa las validaciones, se puede crear el estudiante utilizando el Automapper.
+            var nuevoEstudiante = estudiante.ToEstudiante();
+
+            if (nuevoEstudiante == null)
+                return false;
+
+            return await _estudianteRepository
+                .RegistrarEstudianteAsync(nuevoEstudiante);
         }
 
-        public async Task<List<EstudianteDTO>> GetAllEstudiantesAsync()
+        public async Task<bool> DeleteEstudianteAsync(int id)
+        {
+            return await _estudianteRepository
+                .DeleteEstudianteAsync(id);
+        }
+
+        public async Task<List<EstudianteDTO?>> GetAllEstudiantesAsync()
         {
   
             var listaEstudiantes = await _estudianteRepository.GetAllEstudiantesAsync();
             return listaEstudiantes.Select(e => e.ToEstudianteDTO()).ToList();
+        }
+
+        public async Task<EstudianteDTO?> GetEstudianteByIdAsync(int id)
+        {
+            var estudiante = await _estudianteRepository.GetEstudianteByIdAsync(id);
+
+            return estudiante?.ToEstudianteDTO();
+        }
+
+        public async Task<bool> UpdateEstudianteAsync(EstudianteDTO estudiante)
+        {
+            if (estudiante == null)
+                return false;
+
+            if (estudiante.Edad < 4 || estudiante.Edad > 18)
+                return false;
+
+            var entidad = estudiante.ToEstudiante();
+
+            if (entidad == null)
+                return false;
+
+            return await _estudianteRepository.UpdateEstudianteAsync(entidad);
         }
     }
 }

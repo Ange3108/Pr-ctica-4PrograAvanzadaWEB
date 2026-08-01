@@ -1,7 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Practica4.DAL.Data
 {
@@ -19,11 +16,11 @@ namespace Practica4.DAL.Data
             modelBuilder.Entity<Entities.Estudiante>(entity =>
             {
                 entity.HasKey(e => e.Id);
-                entity.Property(e => e.Nombre).IsRequired().HasMaxLength(100);
-                entity.Property(e => e.Apellido).IsRequired().HasMaxLength(100);
+                entity.Property(e => e.Nombre).IsRequired().HasMaxLength(50);
+                entity.Property(e => e.Apellido).IsRequired().HasMaxLength(50);
                 entity.Property(e => e.Edad).IsRequired();
-                entity.Property(e => e.Grado).IsRequired().HasMaxLength(50);
-                entity.Property(e => e.Genero).IsRequired().HasMaxLength(20);
+                entity.Property(e => e.Grado).IsRequired().HasMaxLength(30);
+                entity.Property(e => e.Genero).IsRequired().HasMaxLength(30);
             });
         }
     }
