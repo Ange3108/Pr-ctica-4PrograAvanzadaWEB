@@ -1,0 +1,174 @@
+﻿@model IEnumerable<Practica4.MVC.Models.EstudianteViewModel>
+
+@{
+    ViewData["Title"] = "Estudiantes";
+}
+
+<div class="container py-5">
+
+    <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+
+        <div class="estudiantes-header d-flex justify-content-between align-items-center flex-wrap gap-3 p-4">
+
+            <div>
+                <h2 class="mb-1 fw-bold text-white">
+                    Gestión de Estudiantes
+                </h2>
+
+                <p class="mb-0 text-white-50">
+                    Consulta y administra la información estudiantil.
+                </p>
+            </div>
+
+            <a asp-controller="Estudiantes"
+               asp-action="Crear"
+               class="btn btn-turquesa px-4 py-2 fw-semibold">
+
+                <i class="bi bi-person-plus-fill me-2"></i>
+                Registrar estudiante
+            </a>
+
+        </div>
+
+        <div class="card-body p-4">
+
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success alert-dismissible fade show" role="alert">
+                    <i class="bi bi-check-circle-fill me-2"></i>
+                    @TempData["Success"]
+
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="alert">
+                    </button>
+                </div>
+            }
+
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    <i class="bi bi-exclamation-triangle-fill me-2"></i>
+                    @TempData["Error"]
+
+                    <button type="button"
+                            class="btn-close"
+                            data-bs-dismiss="alert">
+                    </button>
+                </div>
+            }
+
+            @if (Model != null && Model.Any())
+            {
+                <div class="table-responsive">
+
+                    <table class="table table-hover align-middle tabla-estudiantes">
+
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Nombre completo</th>
+                                <th>Edad</th>
+                                <th>Grado</th>
+                                <th>Género</th>
+                                <th class="text-center">Acciones</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (var estudiante in Model)
+                            {
+                                <tr>
+
+                                    <td>
+                                        <span class="badge-id">
+                                            @estudiante.Id
+                                        </span>
+                                    </td>
+
+                                    <td>
+                                        <div class="d-flex align-items-center gap-3">
+
+                                            <div class="avatar-estudiante">
+                                                @estudiante.Nombre.Substring(0, 1).ToUpper()
+                                            </div>
+
+                                            <div>
+                                                <span class="fw-semibold d-block">
+                                                    @estudiante.Nombre @estudiante.Apellido
+                                                </span>
+
+                                                <small class="text-muted">
+                                                    Estudiante registrado
+                                                </small>
+                                            </div>
+
+                                        </div>
+                                    </td>
+
+                                    <td>
+                                        @estudiante.Edad años
+                                    </td>
+
+                                    <td>
+                                        <span class="badge-grado">
+                                            @estudiante.Grado
+                                        </span>
+                                    </td>
+
+                                    <td>
+                                        @estudiante.Genero
+                                    </td>
+
+                                    <td class="text-center">
+
+                                        <a asp-action="Editar"
+                                           asp-route-id="@estudiante.Id"
+                                           class="btn btn-sm btn-editar me-1"
+                                           title="Editar">
+
+                                            <i class="bi bi-pencil-square"></i>
+                                        </a>
+
+                                        <a asp-action="Eliminar"
+                                           asp-route-id="@estudiante.Id"
+                                           class="btn btn-sm btn-eliminar"
+                                           title="Eliminar">
+
+                                            <i class="bi bi-trash3-fill"></i>
+                                        </a>
+
+                                    </td>
+
+                                </tr>
+                            }
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+            }
+            else
+            {
+                <div class="estado-vacio text-center py-5">
+
+                    <div class="icono-vacio mb-3">
+                        <i class="bi bi-people-fill"></i>
+                    </div>
+
+                    <h4 class="fw-bold">
+                        No hay estudiantes registrados
+                    </h4>
+
+                 
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>

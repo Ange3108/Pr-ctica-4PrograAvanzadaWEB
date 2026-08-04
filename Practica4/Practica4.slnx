@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../Practica4.BLL/Practica4.BLL.csproj" />
   <Project Path="../Practica4.DAL/Practica4.DAL.csproj" />
+  <Project Path="../Practica4.MVC/Practica4.MVC.csproj" Id="b6228e12-3280-40ce-a901-b2f78b1ad192" />
   <Project Path="Practica4.csproj" />
 </Solution>

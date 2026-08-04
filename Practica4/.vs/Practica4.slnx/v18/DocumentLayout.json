@@ -1,7 +1,67 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jabad\\source\\repos\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\views\\estudiantes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\views\\estudiantes\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\views\\estudiantes\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\services\\estudiantes\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\models\\estudianteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|solutionrelative:controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6228E12-3280-40CE-A901-B2F78B1AD192}|..\\Practica4.MVC\\Practica4.MVC.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4.mvc\\services\\estudiantes\\iestudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4\\practica4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|solutionrelative:practica4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\pr-ctica-4prograavanzadaweb\\practica4\\practica4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|Practica4.csproj|solutionrelative:practica4.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,23 +69,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -54,6 +106,234 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Practica4.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-04T00:15:58.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "..\\Practica4.MVC\\Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T22:20:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "..\\Practica4.MVC\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswGAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:15:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Editar.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Views\\Estudiantes\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Editar.cshtml",
+              "RelativeToolTip": "..\\Practica4.MVC\\Views\\Estudiantes\\Editar.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T22:21:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\Practica4.MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAGUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-03T22:49:49.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Crear.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Views\\Estudiantes\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Crear.cshtml",
+              "RelativeToolTip": "..\\Practica4.MVC\\Views\\Estudiantes\\Crear.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T22:20:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\appsettings.json",
+              "RelativeToolTip": "..\\Practica4.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T22:38:30.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Practica4.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T22:50:35.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-04T00:03:27.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T23:56:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Program.cs",
+              "RelativeToolTip": "..\\Practica4.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:22:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Services\\Estudiantes\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Services\\Estudiantes\\EstudianteService.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Services\\Estudiantes\\EstudianteService.cs",
+              "RelativeToolTip": "..\\Practica4.MVC\\Services\\Estudiantes\\EstudianteService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:17:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Views\\Estudiantes\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Views\\Estudiantes\\Eliminar.cshtml",
+              "RelativeToolTip": "..\\Practica4.MVC\\Views\\Estudiantes\\Eliminar.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwIgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T22:21:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EstudianteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Models\\EstudianteViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Models\\EstudianteViewModel.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Models\\EstudianteViewModel.cs",
+              "RelativeToolTip": "..\\Practica4.MVC\\Models\\EstudianteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:07:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "Controllers\\EstudianteController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:56:55.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Services\\Estudiantes\\IEstudianteService.cs",
+              "RelativeDocumentMoniker": "..\\Practica4.MVC\\Services\\Estudiantes\\IEstudianteService.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4.MVC\\Services\\Estudiantes\\IEstudianteService.cs",
+              "RelativeToolTip": "..\\Practica4.MVC\\Services\\Estudiantes\\IEstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:16:55.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Practica4.sql ",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\Practica4.sql",
+              "RelativeDocumentMoniker": "Practica4.sql",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\Pr-ctica-4PrograAvanzadaWEB\\Practica4\\Practica4.sql",
+              "RelativeToolTip": "Practica4.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-08-03T22:03:28.456Z",
+              "EditorCaption": ""
             }
           ]
         }
